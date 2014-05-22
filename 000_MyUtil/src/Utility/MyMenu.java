@@ -12,7 +12,7 @@ import java.util.*;
 
 public class MyMenu 
 {	
-	private final static String CORNICE = "***********************************************************";
+	private final static String CORNICE = "****";
 	private final static String SCELTA_ZERO = "0 - Esci";
 	
 	private final static String MESSAGGIO_BASE = "Seleziona una delle voci: ";
@@ -66,7 +66,7 @@ public class MyMenu
 	/**
 	 * Metodo che permette di aggiungere una linea di selezione nel menu attraverso la stringa passata come parametro di ingresso.
 	 * 
-	 * @param line Stringa che identifica ciò che verrà scritto nella nuova linea del menu
+	 * @param line Stringa che identifica ciï¿½ che verrï¿½ scritto nella nuova linea del menu
 	 * 
 	 */
 	
